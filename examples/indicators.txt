@@ -1,0 +1,8 @@
+# Indicadores sintéticos: domínios reservados e endereços de documentação
+EXAMPLE[.]ORG
+example.org.
+hxxps[:]//portal[.]example[.]org:443/Login?case=Lab
+192.0.2.10
+2001:db8::10
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+not an indicator
