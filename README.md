@@ -1,5 +1,7 @@
 # IOC Workbench
 
+**Área do portfólio:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Contexto:** Projeto pessoal
+
 [![Tests](https://github.com/alefkaue/ioc-workbench/actions/workflows/tests.yml/badge.svg)](https://github.com/alefkaue/ioc-workbench/actions/workflows/tests.yml)
 
 Normaliza e deduplica listas de indicadores para triagem de incidentes. Reconhece IPv4, IPv6, domínios, URLs HTTP(S) e hashes MD5/SHA-1/SHA-256. Preserva as linhas de origem para rastreabilidade. **Não consulta DNS nem serviços externos.**
